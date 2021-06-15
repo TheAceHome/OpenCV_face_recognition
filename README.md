@@ -11,7 +11,7 @@
 
 1. Clone the repo
 ```
-$ git clone 
+$ git clone https://github.com/TheAceHome/OpenCV_face_recognition.git
 ```
 
 2. Create a Python virtual environment named 'test' and activate it
