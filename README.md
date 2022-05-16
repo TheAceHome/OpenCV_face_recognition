@@ -14,12 +14,12 @@
 $ git clone https://github.com/TheAceHome/OpenCV_face_recognition.git
 ```
 
-2. Create a Python virtual environment named 'test' and activate it
+2. Create a Python virtual environment named 'venv' and activate it
 ```
-$ virtualenv test
+$ virtualenv venv
 ```
 ```
-$ source test/bin/activate
+$ source venv/bin/activate
 ```
 
 3. Run the following command in your Terminal/Command Prompt to install the libraries required
